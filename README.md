@@ -1,2 +1,3 @@
 # Real-time-Construction-Industry-Thermometer
 I worked in a team of 6 to build a web platform that gives construction professionals real-time industry insight by combining quantitative market data with qualitative signals from news and social media. Our prototype included a “Construction Thermometer” sentiment indicator across sectors (e.g., residential, commercial, healthcare), a word cloud of trending topics, and search functionality for instant topic insights. I led the front-end build using HTML, CSS, and JavaScript, focusing on accessibility, clear UI, and engaging visuals (emoji + colour-coded indicators). Our team won in the hackathon.
+![projecting](https://github.com/user-attachments/assets/0c1c0ab9-4e3f-4558-ae0f-a840b0c126fd)
